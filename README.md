@@ -31,4 +31,4 @@
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/pablorangell/count.svg" /></p>
 
 
-![snake gif](https://github.com/pablorangell/pablorangell/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/pablorangell/pablorangell/blob/output/github-contribution-grid-snake.svg)

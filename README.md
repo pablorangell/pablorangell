@@ -1,5 +1,5 @@
 
-Hello World, I'm Pablo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+<h1>Hello World, I'm Pablo</h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 </br>
 <div align="center">

@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Pablo Rangel</h1>
+<div align="center">
+<h1>Hello World, I'm Pablo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+</div>
 <h3 align="center">A software developer from Brazil, currently a student of Software Engineering and Systems Analysis Development. 👨🏻‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablorangell&label=Profile%20views&color=0e75b6&style=flat" alt="pablorangell" /> </p>

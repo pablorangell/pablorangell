@@ -4,10 +4,12 @@
 
 <div align="center">
 
- [![](https://visitcount.itsvg.in/api?id=pablorangell&icon=0&color=11)](https://visitcount.itsvg.in)
+ <img src="https://komarev.com/ghpvc/?username=pablorangell&label=Profile%20views&color=7B2869&style=flat" alt="pablorangell" />
 
 </div>
-    
+
+- 💼 Full Stack Developer
+
 - 🌱 I’m currently learning C# and .NET
 
 - 🎓 Student of Software Engineering and Systems Analysis and Development
@@ -35,7 +37,7 @@
     
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pablorangell&theme=synthwave&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pablorangell&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=pablorangell&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>-->
 
 </div>
 

@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B2869&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B2869&size=35&center=true&vCenter=true&width=1000&lines=<Hello+World!+I'm+Pablo/>;<I'm+from+Brazil/>;<Be+Welcome!/>;<Olá+Mundo!+Sou+Pablo/>;<Sejam+Bem-vindos!/>+:%29)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -34,15 +33,16 @@ PHP, Symfony Framework, C#,  .NET Core, SOLID, OOP, DDD, Clean Code, Design Patt
 <div align="center">
     
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=pablorangell&theme=synthwave&hide_border=true)<br/>
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=pablorangell&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>-->
+![](https://github-readme-stats.vercel.app/api?username=pablorangell&show_icons=true&theme=synthwave)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pablorangell&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 </div>
 
   
 
 
-  ![Snake animation](https://github.com/pablorangell/pablorangell/blob/output/github-contribution-grid-snake.svg)
+  <!--![Snake animation](https://github.com/pablorangell/pablorangell/blob/output/github-contribution-grid-snake.svg)-->
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B2869&height=120&section=footer"/>

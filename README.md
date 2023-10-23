@@ -12,7 +12,7 @@
 Software engineer with experience in agile methodologies and participation in the software development cycle. Bachelor's degree in Software Engineering and I'm always improving myself, participating in courses, bootcamps and researching good development practices, software architecture and new market trends.
 
 Tech Skills:
-PHP, Symfony Framework, C#,  .NET Core, SOLID, OOP, DDD, Clean Code, Design Patterns, ASP.NET MVC, API REST, PostgreSQL, Entity Framework, Azure , AWS, Docker, Bash, Git.
+SOLID, OOP, DDD, Clean Code, Design Patterns, API REST, C#,  .NET Core, Entity Framework, Dapper, PostgreSQL, SQL Server, Azure , AWS, Docker, Bash, Git.
 
 
 ## 📪 Connect with me

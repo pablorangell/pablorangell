@@ -43,7 +43,5 @@ SOLID, OOP, DDD, Clean Code, Design Patterns, API REST, C#,  .NET Core, Entity F
 
 
   <!--![Snake animation](https://github.com/pablorangell/pablorangell/blob/output/github-contribution-grid-snake.svg)-->
-</div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B2869&height=120&section=footer"/>
--->
+</div>

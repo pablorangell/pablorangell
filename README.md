@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B2869&height=120&section=header"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B2869&height=120&section=header"/>
 
-
+-->
 <div align="center">
 
  <img src="https://komarev.com/ghpvc/?username=pablorangell&label=Profile%20views&color=7B2869&style=flat" alt="pablorangell" />
@@ -28,7 +28,7 @@ SOLID, OOP, DDD, Clean Code, Design Patterns, API REST, C#,  .NET Core, Entity F
 </a>  
 </div> 
 
-
+<!--
 ## 📊 GitHub stats
 <div align="center">
     
@@ -46,3 +46,4 @@ SOLID, OOP, DDD, Clean Code, Design Patterns, API REST, C#,  .NET Core, Entity F
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B2869&height=120&section=footer"/>
+-->

@@ -12,8 +12,18 @@
 Software engineer with experience in agile methodologies and participation in the software development cycle. Bachelor's degree in Software Engineering and I'm always improving myself, participating in courses, bootcamps and researching good development practices, software architecture and new market trends.
 
 Tech Skills:
-SOLID, OOP, DDD, Clean Code, Design Patterns, API REST, C#,  .NET Core, Entity Framework, Dapper, PostgreSQL, SQL Server, Azure , AWS, Docker, Bash, Git.
+- C#, .NET Core
+- Entity Framework, Dapper
+- PostgreSQL, SQL Server
+- OOP,  SOLID, DDD, Clean Code, Design Patterns
+- Azure DevOps
+- AWS Lambda, Amazon S3, Amazon DynamoDB, Amazon SQS
+- RabbitMQ
+- Docker
+- Bash
+- Git
 
+<br>
 
 ## 📪 Connect with me
 <div align="center">
